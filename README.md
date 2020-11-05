@@ -1,0 +1,1 @@
+In this mini project, I will deconstruct the existing google home page and rebuilt it. The goal of this project is to think about how elements get placed on a page, and how they are styled and aligned.
